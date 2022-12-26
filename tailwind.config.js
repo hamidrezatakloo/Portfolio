@@ -6,19 +6,19 @@ module.exports = {
       fontFamily: {
         calibre: ["calibre", "sans-serif"],
         passion: ['"Passion One"'],
-        colors: {
-          primary: "#ccd6f6",
-          secondary: "#8892b0",
+      },
+      colors: {
+        primary: "#ccd6f6",
+        secondary: "#8892b0",
+      },
+      keyframes: {
+        slide: {
+          "0%": { left: "-60px" },
+          "100%": { left: "140%" },
         },
-        keyframes: {
-          slide: {
-            "0%": { left: "-60px" },
-            "100%": { left: "140%" },
-          },
-        },
-        animation: {
-          slide: "slide 2.5s ease-in-out infinite",
-        },
+      },
+      animation: {
+        slide: "slide 2.5s ease-in-out infinite",
       },
     },
   },
