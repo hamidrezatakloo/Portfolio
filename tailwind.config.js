@@ -6,6 +6,10 @@ module.exports = {
       fontFamily: {
         calibre: ["calibre", "sans-serif"],
         passion: ['"Passion One"'],
+        colors: {
+          primary: "#ccd6f6",
+          secondary: "#8892b0",
+        },
       },
     },
   },
