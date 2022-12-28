@@ -10,6 +10,7 @@ module.exports = {
       colors: {
         primary: "#ccd6f6",
         secondary: "#8892b0",
+        light: "rgba(6, 18, 70,.5)",
       },
       keyframes: {
         slide: {
