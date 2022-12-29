@@ -1,6 +1,7 @@
 import Intro from "./components/Intro";
 import Projects from "./components/Projects";
 import Skills from "./components/Skills";
+import { useRef } from "react";
 import { LocomotiveScrollProvider } from "react-locomotive-scroll";
 function App() {
   const containerRef = useRef(null);
