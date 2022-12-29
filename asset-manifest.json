@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.69069a4f.css",
+    "main.js": "/Portfolio/static/js/main.d49d01ec.js",
+    "static/js/787.b031e383.chunk.js": "/Portfolio/static/js/787.b031e383.chunk.js",
+    "static/media/CalibreRegular.otf": "/Portfolio/static/media/CalibreRegular.84b1f95cc4641415a24e.otf",
+    "index.html": "/Portfolio/index.html",
+    "main.69069a4f.css.map": "/Portfolio/static/css/main.69069a4f.css.map",
+    "main.d49d01ec.js.map": "/Portfolio/static/js/main.d49d01ec.js.map",
+    "787.b031e383.chunk.js.map": "/Portfolio/static/js/787.b031e383.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69069a4f.css",
+    "static/js/main.d49d01ec.js"
+  ]
+}
