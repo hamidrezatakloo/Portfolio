@@ -1,6 +1,6 @@
 const ProjectList = [
   {
-    img: "super_blog.png",
+    img: "Portfolio/super_blog.png",
     title: "Super Blog",
     desc: "super Blog is a webapp that every one can join and write their post or read others post",
     tags: [
@@ -33,7 +33,7 @@ const ProjectList = [
     repo: "https://github.com/hamidrezatakloo/super_blog",
   },
   {
-    img: "shopping-cart.png",
+    img: "Portfolio/shopping-cart.png",
     title: "ShoppingCart",
     desc: "shoppingCart is a store of actionFigures",
     tags: [
@@ -50,7 +50,7 @@ const ProjectList = [
     repo: "https://github.com/hamidrezatakloo/ShoppingCart",
   },
   {
-    img: "cv-creator.png",
+    img: "Portfolio/cv-creator.png",
     title: "Cv Creator",
     desc: "A tool to create resume",
     tags: [
@@ -67,7 +67,7 @@ const ProjectList = [
     repo: "https://github.com/hamidrezatakloo/cv-creator",
   },
   {
-    img: "crypto-app.png",
+    img: "Portfolio/crypto-app.png",
     title: "Crypto App",
     desc: "Showing open and close price of BTC,ETH,USDT",
     tags: [
@@ -92,7 +92,7 @@ const ProjectList = [
     repo: "https://github.com/hamidrezatakloo/cryptoApp",
   },
   {
-    img: "knightMove-bfs.png",
+    img: "Portfolio/knightMove-bfs.png",
     title: "knight Move",
     desc: "find shortest path to goal in 8*8 chess board with bfs",
     tags: [

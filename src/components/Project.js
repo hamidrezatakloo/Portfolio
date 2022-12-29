@@ -18,7 +18,7 @@ const Project = ({ img, title, desc, tags, link, repo }) => {
         </div>
         <div className="md:w-6/12 lg:w-4/12 text-center flex items-center justify-center gap-4">
           <a href={repo}>
-            <img src="github.png" className="w-12 hover:scale-105" />
+            <img src="Portfolio/github.png" className="w-12 hover:scale-105" />
           </a>
           <a
             href={link}
