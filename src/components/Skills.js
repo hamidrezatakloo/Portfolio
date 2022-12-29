@@ -2,7 +2,7 @@ import Card from "./Card";
 import HeaderSec from "./HeaderSec";
 const Skills = () => {
   return (
-    <section className="my-4">
+    <section className="my-4" data-scroll-section>
       <HeaderSec text="The techs that I used in the projects" />
       <div className="grid grid-cols-3 gap-y-20 justify-items-center">
         <Card src="html.png" name="html" />

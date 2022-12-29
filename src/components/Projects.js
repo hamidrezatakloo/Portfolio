@@ -3,7 +3,7 @@ import ProjectList from "../projectList";
 import Project from "./Project";
 const Projects = () => {
   return (
-    <section className="mt-[100px]">
+    <section className="mt-[100px]" data-scroll-section>
       <HeaderSec text="The projects that i build" />
       {ProjectList.map((project, index) => (
         <Project
