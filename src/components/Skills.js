@@ -4,7 +4,12 @@ const Skills = () => {
   return (
     <section className="my-4" data-scroll-section>
       <HeaderSec text="The techs that I used in the projects" />
-      <div className="grid grid-cols-3 gap-y-20 justify-items-center">
+      <div
+        className="grid grid-cols-3 gap-y-20 justify-items-center"
+        data-scroll
+        data-scroll-direction="horizontal"
+        data-scroll-speed="9"
+      >
         <Card src="Portfolio/html.png" name="html" />
         <Card src="Portfolio/css.png" name="css" />
         <Card src="Portfolio/javascript.png" name="javascript" />
