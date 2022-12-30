@@ -2,7 +2,7 @@ const ProjectList = [
   {
     img: "super_blog.png",
     title: "Super Blog",
-    desc: "super Blog is a webapp that every one can join and write their post or read others post",
+    desc: "super Blog is a website that every one can join and write their post or read others post.Registration is done after email confirmation,also every user can edit their profile",
     tags: [
       {
         name: "React",
@@ -35,7 +35,7 @@ const ProjectList = [
   {
     img: "shopping-cart.png",
     title: "ShoppingCart",
-    desc: "shoppingCart is a store of actionFigures",
+    desc: "shoppingCart is a simple store that u can add actionFigure from list to cart",
     tags: [
       {
         name: "React",
@@ -52,7 +52,7 @@ const ProjectList = [
   {
     img: "cv-creator.png",
     title: "Cv Creator",
-    desc: "A tool to create resume",
+    desc: "Putting together your Curriculum Vitae (CV) can be a daunting task.create your own cv with this tool",
     tags: [
       {
         name: "React",
@@ -69,7 +69,7 @@ const ProjectList = [
   {
     img: "crypto-app.png",
     title: "Crypto App",
-    desc: "Showing open and close price of BTC,ETH,USDT",
+    desc: "Showing open and close price of BTC,ETH,USDT from api",
     tags: [
       {
         name: "Html",
@@ -94,7 +94,7 @@ const ProjectList = [
   {
     img: "knightMove-bfs.png",
     title: "knight Move",
-    desc: "find shortest path to goal in 8*8 chess board with bfs",
+    desc: "find shortest path to goal in 8*8 chess board with BFS",
     tags: [
       {
         name: "Javascript",
