@@ -1,8 +1,14 @@
 import Tag from "./Tag";
-
+import styles from "./style.module.css";
 const Project = ({ img, title, desc, tags, link, repo }) => {
   return (
-    <div className="flex flex-col bg-light text-white font-calibre rounded my-12">
+    <div
+      className="flex flex-col bg-light text-white font-calibre rounded my-12 opacity-0"
+      data-scroll
+      data-scroll-class={styles.fadeIn}
+      data-scroll-direction="horizontal"
+      data-scroll-speed="-9"
+    >
       <div className="flex flex-col lg:flex-row">
         <img src={img} className="lg:w-6/12" />
         <div className="p-2 flex-1">
