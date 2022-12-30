@@ -10,18 +10,18 @@ const Skills = () => {
         data-scroll-direction="horizontal"
         data-scroll-speed="9"
       >
-        <Card src="Portfolio/html.png" name="html" />
-        <Card src="Portfolio/css.png" name="css" />
-        <Card src="Portfolio/javascript.png" name="javascript" />
-        <Card src="Portfolio/git.png" name="git" />
-        <Card src="Portfolio/webpack.png" name="webpack" />
-        <Card src="Portfolio/tailwind-css.png" name="tailwindcss" />
-        <Card src="Portfolio/sass.png" name="sass" />
-        <Card src="Portfolio/jest.png" name="jest" />
-        <Card src="Portfolio/django.png" name="django" />
-        <Card src="Portfolio/react.png" name="react" />
-        <Card src="Portfolio/redux.png" name="redux" />
-        <Card src="Portfolio/figma.png" name="figma" />
+        <Card src="html.png" name="html" />
+        <Card src="css.png" name="css" />
+        <Card src="javascript.png" name="javascript" />
+        <Card src="git.png" name="git" />
+        <Card src="webpack.png" name="webpack" />
+        <Card src="tailwind-css.png" name="tailwindcss" />
+        <Card src="sass.png" name="sass" />
+        <Card src="jest.png" name="jest" />
+        <Card src="django.png" name="django" />
+        <Card src="react.png" name="react" />
+        <Card src="redux.png" name="redux" />
+        <Card src="figma.png" name="figma" />
       </div>
     </section>
   );

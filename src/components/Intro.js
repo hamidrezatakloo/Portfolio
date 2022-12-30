@@ -5,7 +5,7 @@ const Intro = () => {
       data-scroll-section
     >
       <img
-        src="Portfolio/avatar.png"
+        src="avatar.png"
         className="rounded-full w-[300px]"
         data-scroll
         data-scroll-direction="horizontal"
